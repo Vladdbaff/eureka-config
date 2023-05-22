@@ -4,7 +4,7 @@ server:
 spring:
   data:
     mongodb:
-      database: books
+      database: admin
       host: localhost
       port: 27017
       username: admin
